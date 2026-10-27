@@ -16,7 +16,7 @@ Every attendee should:
 2. Share their project and Hackday experience in a LinkedIn post.
 3. Include their GitHub project link and LinkedIn post link in their team’s submission file.
 
-**Submit one pull request per team.** Include all team members and their links in that submission. Solo participants can follow the same process using a team name of their choice.
+**Submit one pull request per team.** Include all team members and their links in that submission.
 
 > Your project code belongs in your own project repository. This repository collects a Markdown file describing your project and linking to your work.
 
